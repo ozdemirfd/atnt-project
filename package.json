@@ -1,0 +1,20 @@
+{
+  "name": "atnt",
+  "version": "1.0.0",
+  "description": "this is for ATNT",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "keywords": [
+    "protractor"
+  ],
+  "author": "Feride",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-data-provider": "^2.2.0",
+    "jasmine-spec-reporter": "^4.2.1",
+    "protractor": "^5.4.1",
+    "protractor-beautiful-reporter": "^1.2.5"
+  }
+}
